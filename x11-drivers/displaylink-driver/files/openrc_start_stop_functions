@@ -1,0 +1,10 @@
+start_service()
+{
+  rc-service dlm start
+}
+
+stop_service()
+{
+  rc-service dlm stop
+}
+
